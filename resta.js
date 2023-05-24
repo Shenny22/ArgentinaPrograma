@@ -1,3 +1,4 @@
+// Ejercicio 1)
 // Inciso a)
 let minuendo=10;
 let sustraendo=2;
