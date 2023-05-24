@@ -1,3 +1,4 @@
+// Ejercicio 1)
 // Inciso b)
 let num1 = 2;
 let num2 = 17;
