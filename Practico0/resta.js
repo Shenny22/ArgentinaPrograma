@@ -5,5 +5,4 @@ let sustraendo=2;
 let resta = minuendo - sustraendo;
 console.log(resta);
 
-
 // Respuesta: Devuelve el número 8 
