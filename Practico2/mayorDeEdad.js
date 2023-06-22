@@ -1,3 +1,4 @@
+// Ejercicio 1)a)
 const readline = require('readline-sync');
 const edad = readline.question("Ingrese su edad: ");
 
