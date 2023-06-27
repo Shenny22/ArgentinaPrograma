@@ -7,6 +7,5 @@ for (let i = 10; i >= 0 ; i--){
         console.log(i);
     }
 }
-//¿Cómo se itera hacia abajo? 
-
+// Pregunta: ¿Cómo se itera hacia abajo? 
 // Rta: i--
