@@ -8,4 +8,4 @@ for (let i = 10; i >= 0 ; i--){
     }
 }
 // Pregunta: ¿Cómo se itera hacia abajo? 
-// Rta: i--
+// Rta: Utilizando i--
