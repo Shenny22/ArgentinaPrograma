@@ -27,8 +27,8 @@ function determinarGanador(obtenerJugadaComputadora, obtenerJugadaUsuario) {
 
 let jugadaComputador = obtenerJugadaComputadora();
 let jugadaUsuario = obtenerJugadaUsuario();
-let Ganador = determinarGanador(jugadaComputador, jugadaUsuario);
+let jugadorGanador = determinarGanador(jugadaComputador, jugadaUsuario);
 
 console.log ("La computadora eligio: %s.", jugadaComputador);
 console.log ("El usuario eligio: %s.", jugadaUsuario);
-console.log ("El resultado fue: %s.", Ganador);
+console.log ("El resultado fue: %s.", jugadorGanador);
