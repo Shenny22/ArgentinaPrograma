@@ -1,7 +1,7 @@
 const readlineSync = require('readline-sync');
 
 function obtenerJugadaComputadora() {
-    let opciones = {0:'piedra', 1:'papel', 2:'tijeras'};
+    let opciones = {0:"piedra", 1:"papel", 2:"tijeras"};
     let jugadaComputador = opciones[Math.floor(Math.random() * 3)];
     return jugadaComputador;
 }
